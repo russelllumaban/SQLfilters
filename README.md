@@ -1,4 +1,4 @@
-<h1>Security Audit Practice</h1>
+<h1>SQL Query Filters</h1>
 
 
 <h2>Scenario</h2>
